@@ -4,8 +4,15 @@
         <description><![CDATA[Paul Guzmán]]></description>
         <link>https://thegrid.ai/paul-guzman/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 19:02:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 19:02:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/paul-guzman/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb3c55a45c5f54355914e76ecb74afe8985528f1.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/paul-guzman/8a757683-d59a-45e1-bc07-f821d7ea144f/index.html</link>
+            <guid isPermaLink="false">8a757683-d59a-45e1-bc07-f821d7ea144f</guid>
+            <pubDate>Sun, 08 May 2016 19:02:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4ee48ef-9088-4e96-9508-1c5a7553adf5.jpg" alt="" title="">]]></description>
@@ -54,13 +61,6 @@
             <link>https://thegrid.ai/paul-guzman/3adc284a-3209-4009-9dff-1f077bfd6216/index.html</link>
             <guid isPermaLink="false">3adc284a-3209-4009-9dff-1f077bfd6216</guid>
             <pubDate>Sun, 08 May 2016 18:49:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb3c55a45c5f54355914e76ecb74afe8985528f1.jpg" alt="" title="">]]></description>
-            <link>https://thegrid.ai/paul-guzman/8a757683-d59a-45e1-bc07-f821d7ea144f/index.html</link>
-            <guid isPermaLink="false">8a757683-d59a-45e1-bc07-f821d7ea144f</guid>
-            <pubDate>Sun, 08 May 2016 18:30:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
